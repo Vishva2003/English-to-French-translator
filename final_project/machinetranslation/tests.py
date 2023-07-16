@@ -1,6 +1,5 @@
-
 import unittest
-from translator import frenchToEnglish, englishToFrench
+from translator import frenchToEnglish,englishToFrench
 
 class Testf2e(unittest.TestCase):
     
